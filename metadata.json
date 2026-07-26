@@ -1,0 +1,6 @@
+{
+  "name": "EduNova AI – Smart Study Assistant",
+  "description": "AI-powered study suite featuring personalized study planners, topic explainers, quiz generators, note generators, assignment helpers, task calendar, reminders, and profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
