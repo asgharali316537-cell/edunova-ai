@@ -177,4 +177,4 @@ Built with ❤️ using Google AI Studio, React, Tailwind CSS, Express, and Goog
 
 ### 🤖 AI Assistant
 
-![AI Assistant](AI Assistant.png)
+![AI Assistant](ai-assistant.png)
