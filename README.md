@@ -4,8 +4,7 @@ EduNova AI is an intelligent, full-stack educational assistant powered by **Reac
 
 ## 🌐 Live Demo
 
-**Live App:**
-https://edunova-mluzvi7k1-asgharali316537-8949s-projects.vercel.app/
+**https://edunova-qrorkg48z-asgharali316537-8949s-projects.vercel.app
 
 **GitHub Repository:**
 https://github.com/asgharali316537-cell/edunova-ai
