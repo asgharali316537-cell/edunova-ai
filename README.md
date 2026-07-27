@@ -161,3 +161,20 @@ The AI assistant acts as a helpful educational tutor.
 ## 🛡️ License & Credits
 
 Built with ❤️ using Google AI Studio, React, Tailwind CSS, Express, and Google Gemini 3.6.
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](home.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](dashboard.png)
+
+---
+
+### 🤖 AI Assistant
+
+![AI Assistant](AI Assistant.png)
