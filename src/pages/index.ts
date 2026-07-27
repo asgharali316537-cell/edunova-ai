@@ -1,0 +1,10 @@
+export { DashboardPage } from './DashboardPage';
+export { StudyPlannerPage } from './StudyPlannerPage';
+export { AIAssistantPage } from './AIAssistantPage';
+export { QuizGeneratorPage } from './QuizGeneratorPage';
+export { NotesGeneratorPage } from './NotesGeneratorPage';
+export { AssignmentHelperPage } from './AssignmentHelperPage';
+export { CalendarPage } from './CalendarPage';
+export { RemindersPage } from './RemindersPage';
+export { SettingsPage } from './SettingsPage';
+export { AboutPage } from './AboutPage';
