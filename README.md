@@ -2,7 +2,13 @@
 
 EduNova AI is an intelligent, full-stack educational assistant powered by **React 19**, **Vite**, **Tailwind CSS v4**, and **Google Gemini 3.6 Flash**. It helps students optimize study schedules, master complex topics with AI explanations, generate self-assessment quizzes, create structured Cornell notes, draft academic assignment outlines, and track deadlines seamlessly.
 
----
+## 🌐 Live Demo
+
+**Live App:**
+https://edunova-mto1rr82j-asgharali316537-8949s-projects.vercel.app/
+
+**GitHub Repository:**
+https://github.com/asgharali316537-cell/edunova-ai
 
 ## 📁 Complete Project Structure
 
@@ -139,7 +145,18 @@ EduNova AI is optimized for deployment on Vercel:
 4. **Deploy**:
    Click **Deploy**. Vercel will build the frontend with Vite and automatically serve the API endpoints via the serverless function handler configured in `vercel.json` and `api/index.ts`.
 
----
+## 🤖 AI System Prompt
+
+The AI assistant acts as a helpful educational tutor.
+
+### Instructions
+
+- Explain topics in simple language.
+- Break difficult concepts into easy steps.
+- Generate quizzes and study plans.
+- Create structured notes and assignment outlines.
+- Help students understand concepts instead of encouraging cheating.
+- Give accurate and friendly responses.
 
 ## 🛡️ License & Credits
 
